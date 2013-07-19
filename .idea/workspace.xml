@@ -11,17 +11,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b45fcded-3e96-4199-a8eb-d021bbc81e92" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WhereAreYou/build/source/r/debug/org/nando/where/R.java" afterPath="$PROJECT_DIR$/WhereAreYou/build/source/r/debug/org/nando/where/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WhereAreYou/build/res/all/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/WhereAreYou/build/res/all/debug/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WhereAreYou/build/res/all/debug/menu/main.xml" afterPath="$PROJECT_DIR$/WhereAreYou/build/res/all/debug/menu/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WhereAreYou/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/WhereAreYou/build/res/all/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WhereAreYou/build/res/all/debug/values-sw720dp-land/values.xml" afterPath="$PROJECT_DIR$/WhereAreYou/build/res/all/debug/values-sw720dp-land/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WhereAreYou/build/res/all/debug/values-v11/values.xml" afterPath="$PROJECT_DIR$/WhereAreYou/build/res/all/debug/values-v11/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b45fcded-3e96-4199-a8eb-d021bbc81e92" name="Default" comment="" />
     <ignored path="WhereAreYou.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
