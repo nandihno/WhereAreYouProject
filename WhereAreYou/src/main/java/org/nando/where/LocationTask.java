@@ -40,7 +40,7 @@ public class LocationTask extends AsyncTask<Location,Void,LocationPojo> {
             pojo.address1 = address.getAddressLine(1);
             pojo.featureName = address.getFeatureName();
             StringBuffer sbuff = new StringBuffer();
-            for(int i=1; i <= address.getMaxAddressLineIndex(); i++) {
+            for(int i=0; i < address.getMaxAddressLineIndex(); i++) {
                 sbuff.append(address.getAddressLine(i) + "\n");
             }
             pojo.allAddresses = sbuff.toString();
